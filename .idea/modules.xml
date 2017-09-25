@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TDD Lab.iml" filepath="$PROJECT_DIR$/TDD Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnitTestProject.iml" filepath="$PROJECT_DIR$/UnitTestProject.iml" />
     </modules>
   </component>
 </project>
